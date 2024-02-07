@@ -1,0 +1,13 @@
+1 key – select cube 1
+2 key – select cube 2
+3 – select plane
+4 – select sphere 1
+5 – select sphere 2
+8 – switch to euler integration
+F – rotate cube
+W – Move forward
+A – Move Left
+D – Move Right
+S – Move backwards
+E – Move up 
+Q – Move Down
